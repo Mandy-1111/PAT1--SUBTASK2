@@ -1,2 +1,2 @@
 # pat1--SUBTASK2
-binary {}
+pat1==SUBTASK2
